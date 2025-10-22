@@ -1,3 +1,5 @@
 - text
 - some
 - info
+- another
+- [[note 2]]
